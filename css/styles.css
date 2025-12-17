@@ -1,15 +1,20 @@
 /* Los estilos se aplican a todo el documento */
 body {
-    background-image: linear-gradient(135deg, rgba(184, 227, 255, 0.8) rgba(233, 75, 75, 0.747)), 
-        url('../assets/background/background.jpeg');
+    background-image: linear-gradient(135deg, rgba(184, 227, 255, 0.8) rgba(95, 250, 255, 0.747)),
+     url('../assets/background/background.jpeg');
 }
 
-.sobre mi {
+.sobre-mi {
     max-width: 800px;
     border-style: solid;
     border-radius: 20px;
     border-width: 1px;
     margin: auto;
     padding: 20px;
-    background-image: linear-gradient(135, rgba(0,0,0,0.8), rgba(0, 0, 0, 0.8));
+    background-image: linear-gradient(135, rgba(255, 46, 46, 0.8), rgba(245, 161, 161, 0.8));
+}
+
+.icono {
+    width: 50px;
+    height: 50px;
 }
